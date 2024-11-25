@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Jesse M/ Blum
+# 👋 Hi, I'm Jesse M. Blum
 
 Tech Lead & AI Architect at [BrightWolves](https://www.brightwolves.com/) | Founder of BlumWellens BV | PhD Computing Science
 
